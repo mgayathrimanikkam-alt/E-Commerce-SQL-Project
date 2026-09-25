@@ -9,7 +9,7 @@ Analyzed sales, customers, and payment data to find business insights.
 - Categories, Customers, Products
 - Orders, OrderDetails, Payments
 
-### Queries Covered (20)
+### Queries Covered
 - Total Sales & Revenue
 - Category-wise Sales
 - Top Selling Products
