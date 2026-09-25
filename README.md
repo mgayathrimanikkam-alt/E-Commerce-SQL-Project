@@ -1,7 +1,6 @@
 # E-Commerce SQL Project
 
-Complete E-Commerce database analysis project using MS SQL Server.
-
+Complete E-Commerce Database Project with Joins , Aggregation & Payment Analysis | MS SQL
 ### Project Overview
 Analyzed sales, customers, and payment data to find business insights.
 
